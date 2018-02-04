@@ -1,0 +1,15 @@
+body{
+	background-color: lavender;
+}
+.navbar{
+	background-color: rgba(54, 116, 183, 0.5)!important;
+}
+.para1{
+  margin-top: 30px;
+}
+.fa-instagram{
+  size: : 100px;	
+}
+.city{
+  font-size: 50px;
+}
